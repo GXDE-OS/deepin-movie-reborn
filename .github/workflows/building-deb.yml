@@ -239,4 +239,4 @@ jobs:
           tarName=$(ls | grep .tar | head -n 1)
           sshpass -p "$UPASSWD" rsync -e "ssh -p $UPORT" $tarName $UUSERS@$UHOST:$UPATH
           sshpass -p "$UPASSWD" ssh $UUSERS@$UHOST -p $UPORT $UPROGRAM $UPATH/$tarName > /dev/null
-      
+       
