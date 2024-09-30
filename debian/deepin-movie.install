@@ -5,3 +5,4 @@ usr/share/deepin-movie/translations/*.qm
 usr/share/icons/*
 usr/share/deepin-manual/manual-assets/application/*
 /usr/share/dbus-1/services/com.deepin.movie.service
+pkg/ /

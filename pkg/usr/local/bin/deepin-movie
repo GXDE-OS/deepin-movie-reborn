@@ -1,0 +1,2 @@
+#!/bin/bash
+D_DTKSIZE_MODE=1 /usr/bin/deepin-movie "$@"

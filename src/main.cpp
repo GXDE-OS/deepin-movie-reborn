@@ -38,7 +38,6 @@
 
 #include "accessibility/acobjectlist.h"
 DWIDGET_USE_NAMESPACE
-
 bool runSingleInstance()
 {
     std::string path;
